@@ -1,15 +1,18 @@
 # Login com Social Media
 
-Requisitos
+##### Requisitos
 
 - Firebase | Instalação : `npm install firebase`
 
 - Necessário criar um projeto no site do [Firebase](https://console.firebase.google.com/u/0/?hl=pt-br&pli=1)
 
-- Adicionar um projeto Web
-- Copiar configuração que será informada após a criaçõa do projeto da tag `script`
+- Adicionar um projeto Web no projeto criado no Firebase.
+- Copiar configuração que será informada após a criação do projeto da tag `script`
 
 - Criar classe firebase com as configurações copiadas na plataforma.
+
+##### No site do Firebase é preciso permitir o uso das mídias sociais
+
 - Na parte de autenticação do firebase habilitar as mídias.
 
 Para configuração da chave do Facebook será necessário criar um projeto no Facebook for Developer, onde será disponibilidade um ID.
