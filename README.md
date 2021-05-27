@@ -13,3 +13,7 @@ Requisitos
 - Na parte de autenticação do firebase habilitar as mídias.
 
 Para configuração da chave do Facebook será necessário criar um projeto no Facebook for Developer, onde será disponibilidade um ID.
+
+Para a configuração do GitHub será preciso uma Cliend ID. A configuração pode ser obtida na parte de developers do perfil do github.
+
+Para melhor entendimento segue o [Tutorial](https://www.youtube.com/watch?v=MG3ZTfdxODA)
