@@ -10,3 +10,6 @@ Requisitos
 - Copiar configuração que será informada após a criaçõa do projeto da tag `script`
 
 - Criar classe firebase com as configurações copiadas na plataforma.
+- Na parte de autenticação do firebase habilitar as mídias.
+
+Para configuração da chave do Facebook será necessário criar um projeto no Facebook for Developer, onde será disponibilidade um ID.
